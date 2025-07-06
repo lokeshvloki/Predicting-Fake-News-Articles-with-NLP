@@ -103,4 +103,13 @@ Contributions are welcome! Feel free to fork the project, open issues, and submi
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
+---
+
+> **“Truth is powerful and it prevails. Let’s teach machines to recognize it.”**
+
+---
+
+Let me know if you'd like a `requirements.txt`, example output screenshots, or a `Streamlit` interface too. We can go full data wizard mode 🔮✨
+
+
 
