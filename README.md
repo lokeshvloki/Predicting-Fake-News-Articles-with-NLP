@@ -1,4 +1,4 @@
-# Fake News Prediction using Machine Learning
+# <b>Fake News Prediction using Machine Learning</b>
 
 A supervised machine learning project that leverages Natural Language Processing (NLP) techniques and Logistic Regression to classify news articles as **real** or **fake**.
 
